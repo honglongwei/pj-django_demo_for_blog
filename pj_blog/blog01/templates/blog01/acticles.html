@@ -1,0 +1,6 @@
+<h3>
+    {{ nbl.title }}
+</h3>
+{{ nbl.content }}
+<br>
+<a href="{% url 'blog:edit_page' nbl.id %}">修改文章</a>

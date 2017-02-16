@@ -1,2 +1,2 @@
-# pj-django_demo_for_blog
+# pj_blog
 django 开发的一个简易blog练习
